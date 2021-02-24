@@ -26,4 +26,5 @@ In this game the player is given the control of a spaceship which is tasked to d
 • In medium level, ’#’ symbols represent barriers and they are destroyed only by the bullets shot by the spaceship.
 
 • In hard level enemy shuttles move randomly and apart from losing all the five lives game will be over when the enemy shuttles reach the spaceship.
+
 • Collect 'O' to get extra lives.
